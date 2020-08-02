@@ -11,11 +11,8 @@ Portfolio:
 Personal:
 
 -Instagram: christian04_velazquez (https://www.instagram.com/christian04_velazquez/)
-
 -Twitter: @Chris_erik4 ( https://twitter.com/Chris_erik4)
-
 -Facebook: Chris Velázquez ( https://www.facebook.com/Chris04Velazquez/)
-
 -linkedin: Christian Velázquez Morales ( https://www.linkedin.com/in/chris-vel%C3%A1zquez/ )
 
 

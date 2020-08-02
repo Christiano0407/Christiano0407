@@ -5,6 +5,7 @@ Journalist, passionate for the technology, and business. My profession is my pas
 Portfolio: 
 -Personal: https://placebo0704.myportfolio.com/
 -Behance: https://www.behance.net/placebo070b70b
+
 Personal:
 -Instagram: christian04_velazquez (https://www.instagram.com/christian04_velazquez/)
 -Twitter: @Chris_erik4 ( https://twitter.com/Chris_erik4)

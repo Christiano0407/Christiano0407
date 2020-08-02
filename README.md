@@ -18,4 +18,8 @@ Personal:
 
 -linkedin: Christian Velázquez Morales ( https://www.linkedin.com/in/chris-vel%C3%A1zquez/ )
 
+Utilizo: 
+
+https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png
+
 

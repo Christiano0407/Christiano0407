@@ -21,5 +21,12 @@ Personal:
 Utilizo: 
 
 <image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" width= 50px, height= 50px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png" width= 50px, height= 50px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png" width= 50px, height= 50px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png" width= 50px, height= 50px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Photoshop.png" width= 50px, height= 50px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Ilustrator.png" width= 50px, height= 50px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Xd.png" width= 50px, height= 50px/>
+
 
 

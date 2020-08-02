@@ -20,6 +20,6 @@ Personal:
 
 Utilizo: 
 
-<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" width= 50px, height= 100px/>
+<image src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" width= 50px, height= 50px/>
 
 

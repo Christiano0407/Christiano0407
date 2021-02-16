@@ -18,6 +18,6 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 
 # Languages and Tools
 
-![](https://www.pngkin.com/mnp/116-1160720.png)
+![](../imagenes/imagenes_guardadas/css.png)
 
 

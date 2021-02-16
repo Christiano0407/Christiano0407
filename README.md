@@ -16,8 +16,4 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 - [Facebook]: (Chris Velázquez ( https://www.facebook.com/Chris04Velazquez/))<br>
 - [linkedin]: (Christian Velázquez Morales ( https://www.linkedin.com/in/chris-vel%C3%A1zquez/ ))<br>
 
-# Languages and Tools
-
-![](../imagenes/imagenes_guardadas/css.png)
-
 

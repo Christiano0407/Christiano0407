@@ -1,4 +1,4 @@
-# Hi there 👋 :smiley:
+# Hi! 👋 :smiley:
 
 My name is Christian Velázquez (Chris04). 
 
@@ -16,5 +16,8 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 - [Facebook]: (Chris Velázquez ( https://www.facebook.com/Chris04Velazquez/))<br>
 - [linkedin]: (Christian Velázquez Morales ( https://www.linkedin.com/in/chris-vel%C3%A1zquez/ ))<br>
 
+# Languages and Tools
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 
 

@@ -11,10 +11,10 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 
 # Personal Social Media:
 
-- [Instagram]: christian04_velazquez) (https://www.instagram.com/christian04_velazquez/ <br>
-- [Twitter]:  @Chris_erik4 ( https://twitter.com/Chris_erik4 <br>
-- [Facebook]:  Chris Velázquez ( https://www.facebook.com/Chris04Velazquez/ <br>
-- [linkedin]:  Christian Velázquez Morales ( https://www.linkedin.com/in/chris-vel%C3%A1zquez/  <br>
+- [Instagram]:  https://www.instagram.com/christian04_velazquez/ <br>
+- [Twitter]:    https://twitter.com/Chris_erik4 <br>
+- [Facebook]:   https://www.facebook.com/Chris04Velazquez/ <br>
+- [linkedin]:   https://www.linkedin.com/in/chris-vel%C3%A1zquez/  <br>
 
 # Tech and Tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">

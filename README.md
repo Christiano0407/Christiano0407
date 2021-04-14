@@ -15,6 +15,7 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 - <a href="https://www.facebook.com/Chris04Velazquez/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 - [![Linkedin: ChrisVelázquez](https://img.shields.io/badge/-ChrisVelázquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-vel%C3%A1zquez/)](https://www.linkedin.com/in/chris-vel%C3%A1zquez/)
 - [![Twitter Badge](https://img.shields.io/badge/@Chris_erik4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/Chris_erik4)](https://twitter.com/Chris_erik4) 
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:placebo0704@gmail.com)](mailto:placebo0704@gmail.com)
 
 # Tech and Tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">

@@ -15,7 +15,7 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 - [Twitter]:    https://twitter.com/Chris_erik4 <br>
 - [Facebook]:   https://www.facebook.com/Chris04Velazquez/ <br>
 - [linkedin]:   https://www.linkedin.com/in/chris-vel%C3%A1zquez/  <br>
-- [![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/Chris_erik4)](https://twitter.com/Chris_erik4) 
+- [![Twitter Badge](https://img.shields.io/badge/@Chris_erik4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/Chris_erik4)](https://twitter.com/Chris_erik4) 
 
 # Tech and Tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">

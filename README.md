@@ -12,8 +12,8 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 # Personal Social Media:
 
 - [Instagram]:  https://www.instagram.com/christian04_velazquez/ <br>
-  <a href=" https://twitter.com/Chris_erik4">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <a href="https://twitter.com/Chris_erik4">
+  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://twitter.com/Chris_erik4" />
   </a>
 - [Facebook]:   https://www.facebook.com/Chris04Velazquez/ <br>
 - [linkedin]:   https://www.linkedin.com/in/chris-vel%C3%A1zquez/  <br>

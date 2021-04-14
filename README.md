@@ -14,7 +14,7 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 - [Instagram]:  https://www.instagram.com/christian04_velazquez/ <br>
 - [Twitter]:    https://twitter.com/Chris_erik4 <br>
 - [Facebook]:   https://www.facebook.com/Chris04Velazquez/ <br>
-- [linkedin]:   https://www.linkedin.com/in/chris-vel%C3%A1zquez/  <br>
+- [![Linkedin: ChrisVelázquez](https://img.shields.io/badge/-ChrisVelázquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-vel%C3%A1zquez/)](https://www.linkedin.com/in/chris-vel%C3%A1zquez/)
 - [![Twitter Badge](https://img.shields.io/badge/@Chris_erik4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/Chris_erik4)](https://twitter.com/Chris_erik4) 
 
 # Tech and Tools

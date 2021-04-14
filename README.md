@@ -12,7 +12,9 @@ I'm Journalist, passionate for the technology, and business. My profession is my
 # Personal Social Media:
 
 - [Instagram]:  https://www.instagram.com/christian04_velazquez/ <br>
-- [Twitter]:    https://twitter.com/Chris_erik4 <br>
+  <a href=" https://twitter.com/Chris_erik4">
+  <img align="left" alt="Chris04 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
 - [Facebook]:   https://www.facebook.com/Chris04Velazquez/ <br>
 - [linkedin]:   https://www.linkedin.com/in/chris-vel%C3%A1zquez/  <br>
 

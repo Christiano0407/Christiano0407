@@ -1,4 +1,4 @@
-# 👋 Welcome — I'm Christian Velázquez!
+# 👋🏻 Welcome — I'm Christian Velázquez!
 
 I'm **Christian Velázquez** — also known as **Chris04**.
 

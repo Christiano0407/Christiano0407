@@ -60,5 +60,10 @@ Driven by a strong desire to help others, I believe that continuous learning and
 | [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/) | [![Sass](https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=fff)](https://sass-lang.com/) | [![Audition](https://img.shields.io/badge/Audition-00F?style=flat&logo=adobeaudition&logoColor=fff)](https://www.adobe.com/products/audition.html) |
 | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)](https://www.linux.org/) |                      | [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff)](https://www.adobe.com/products/photoshop.html) |
 
+---
+### 📈 GitHub Stats & 🧑‍💻 Top Languages
+
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christiano0407&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christiano0407&layout=compact&theme=radical)
 
 
